@@ -1,0 +1,11 @@
+Package: SomeoneIs
+Type: Package
+Title: Says that x is y
+Version: 0.1.0
+Author: Anneleen and Granti
+Maintainer: Anneleen <fake@email>
+Description: Replaces x with entry.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
