@@ -2,6 +2,7 @@
 #'
 #' blah blhablalh
 #' @param fuuasbglkfabs
+#' @param Look!
 #' @param asdfnasdfjbsadlgk
 #' @export
 WhoIs <- function(x,y) {
